@@ -4,7 +4,7 @@ Hello, I am Bhishmadev Ghosh,  Computer Science and Engineering undergraduate st
 Throughout my college journey I have acquired skills in frontend and backend development and currently looking  for an opportunity to implement those in real world projects.
 
 ## 🛠 Skills
-**Client:** HTML/CSS
+**Client:** HTML/CSS, JavaScript
 
 **Server:** Java, Spring Boot, Jpa, Redis,
 
