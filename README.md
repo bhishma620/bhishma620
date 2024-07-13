@@ -1,7 +1,6 @@
 
 ## 🚀 About Me
-Hello, I am Bhishmadev Ghosh,  Computer Science and Engineering undergraduate student at Jis College Of Engineering currently in my final year of studies 
-Throughout my college journey I have acquired skills in frontend and backend development and currently looking  for an opportunity to implement those in real world projects.
+Hello, I am Bhishmadev Ghosh, a Computer Science and Engineering undergraduate student at JIS College of Engineering, currently in my final year of studies. Throughout my college journey, I have acquired skills in frontend and backend development and am currently looking for an opportunity to implement them in real-world projects.
 
 ## 🛠 Skills
 **Languages:** Java, C, JavaScript
