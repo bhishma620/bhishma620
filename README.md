@@ -1,19 +1,21 @@
 
 ## 🚀 About Me
-Hello, I am Bhishmadev Ghosh,  Computer Science and Engineering undergraduate student at Jis College Of Engineering currently in my final year of studies (2025).
+Hello, I am Bhishmadev Ghosh,  Computer Science and Engineering undergraduate student at Jis College Of Engineering currently in my final year of studies 
 Throughout my college journey I have acquired skills in frontend and backend development and currently looking  for an opportunity to implement those in real world projects.
 
 ## 🛠 Skills
-**Client:** HTML/CSS, JavaScript
+**Languages:** Java, C, JavaScript
 
-**Server:** Java, Spring Boot, Jpa, Redis,
+**Front-end:** HTML/CSS
+
+**Back-end:** Spring Boot, JPA, Redis
 
 **Database:** MySQL
  
 
 ## Academic Achievements
 
-* **Knight** at Leetcode (max 2093)
+* **Knight** at Leetcode (max 2095)
 * **Specialist** at Codeforces (max 1561)
 * **4 star** at Codechef (max 1970)
 * **2000+** problems accross platforms
